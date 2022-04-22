@@ -4,10 +4,11 @@
 This is a simple BMI calculator app. It calculates the BMI of a person based on their height and weight. 
 
 ### App Walk-though
-##### android walk-through
-![image](https://drive.google.com/uc?export=view&id=1mKvnBfbjQNfpRSISz4bdpPtLJWyrMkcS)
-##### iOS walk-through
-![image](https://drive.google.com/uc?export=view&id=1jYOsdtwhq3kcoCkuKF7tE6pAWt-g-pVc)
+##### android and IOS walk-through
+<img src="androidwalkthrough.gif" width=200>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="ioswalkthrough.gif" width=200>
 
 ## Tools Used
 - [x] Flutter 
